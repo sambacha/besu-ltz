@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const host = require('..');
+const host = require("..");
 
-describe('host', () => {
-    it('needs tests');
+describe("host", () => {
+  it("needs tests");
 });
