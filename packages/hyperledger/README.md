@@ -1,5 +1,4 @@
-# Hyperledger Besu 
-
+# Hyperledger Besu
 
 ## Overview
 
@@ -58,8 +57,6 @@ out/ibft-network
         └── key.pub
 ```
 
-
-
 ### Start the IBFT 2.0 network
 
 ```shell
@@ -93,8 +90,6 @@ validator-1
 bootnode-1
 -------------------------
 ```
-
-
 
 The topology of the network is saved in `out/network-topology`.
 
