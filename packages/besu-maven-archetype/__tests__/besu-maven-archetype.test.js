@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const besuMavenArchetype = require('..');
+const besuMavenArchetype = require("..");
 
-describe('besu-maven-archetype', () => {
-    it('needs tests');
+describe("besu-maven-archetype", () => {
+  it("needs tests");
 });

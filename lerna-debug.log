@@ -1,0 +1,9 @@
+0 silly argv { _: [ 'bootstrap' ], lernaVersion: '3.22.1', '$0': 'lerna' }
+1 notice cli v3.22.1
+2 verbose rootPath /Users/sbacha/github/besu-ltz
+3 error Error: Invalid package name "freight-trust/besu-tx": name can only contain URL-friendly characters
+3 error     at invalidPackageName (/Users/sbacha/.nvm/versions/node/v10.21.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:86:15)
+3 error     at Result.setName (/Users/sbacha/.nvm/versions/node/v10.21.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:121:11)
+3 error     at new Result (/Users/sbacha/.nvm/versions/node/v10.21.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:111:23)
+3 error     at Function.resolve (/Users/sbacha/.nvm/versions/node/v10.21.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:58:15)
+3 error     at new Package (/Users/sbacha/.nvm/versions/node/v10.21.0/lib/node_modules/lerna/node_modules/@lerna/package/index.js:36:26)

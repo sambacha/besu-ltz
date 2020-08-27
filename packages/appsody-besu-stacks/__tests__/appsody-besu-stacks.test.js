@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const appsodyBesuStacks = require('..');
+const appsodyBesuStacks = require("..");
 
-describe('appsody-besu-stacks', () => {
-    it('needs tests');
+describe("appsody-besu-stacks", () => {
+  it("needs tests");
 });

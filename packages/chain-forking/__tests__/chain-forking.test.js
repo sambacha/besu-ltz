@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const chainForking = require('..');
+const chainForking = require("..");
 
-describe('chain-forking', () => {
-    it('needs tests');
+describe("chain-forking", () => {
+  it("needs tests");
 });

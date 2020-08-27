@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const besuClique = require('..');
+const besuClique = require("..");
 
-describe('besu-clique', () => {
-    it('needs tests');
+describe("besu-clique", () => {
+  it("needs tests");
 });

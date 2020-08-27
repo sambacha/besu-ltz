@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const exflo = require('..');
+const exflo = require("..");
 
-describe('exflo', () => {
-    it('needs tests');
+describe("exflo", () => {
+  it("needs tests");
 });

@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = besuMavenArchetype;
 
 function besuMavenArchetype() {
-    // TODO
+  // TODO
 }

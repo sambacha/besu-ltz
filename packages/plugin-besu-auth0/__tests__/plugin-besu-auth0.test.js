@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const pluginBesuAuth0 = require('..');
+const pluginBesuAuth0 = require("..");
 
-describe('plugin-besu-auth0', () => {
-    it('needs tests');
+describe("plugin-besu-auth0", () => {
+  it("needs tests");
 });

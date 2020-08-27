@@ -13,7 +13,7 @@ forkhash₁ = 0x97c2c34c (Homestead) = CRC32(<genesis-hash> || uint64(1150000))
 forkhash₂ = 0x91d1f948 (DAO fork) = CRC32(<genesis-hash> || uint64(1150000) || uint64(1920000))
 The fork identifier is defined as RLP([FORK_HASH, FORK_NEXT]). This forkid is cross validated (NOT naively compared) to assess a remote chain’s compatibility. Irrespective of fork state, both parties must come to the same conclusion to avoid indefinite reconnect attempts from one side.
 
- echo -n "0xfc64ec04"  | cksum | cut -d\  -f1 | xargs echo printf '%0X\\n' | sh# `chain-forking`
+echo -n "0xfc64ec04" | cksum | cut -d\ -f1 | xargs echo printf '%0X\\n' | sh# `chain-forking`
 
 > TODO: description
 
